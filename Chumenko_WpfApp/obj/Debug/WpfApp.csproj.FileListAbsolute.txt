@@ -1,0 +1,44 @@
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\App.g.cs
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\glavform.g.cs
+D:\МИРЭА\Верстка\3 семестр\Оконное прилож\WPF\WpfApp\WpfApp\obj\Debug\glavform.baml
+C:\Users\Akell\OneDrive\Desktop\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Akell\OneDrive\Desktop\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Akell\OneDrive\Desktop\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\glavform.g.cs
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\App.g.cs
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\glavform.baml
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Akell\OneDrive\Desktop\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\glavform.g.cs
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\App.g.cs
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\glavform.baml
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Akell\OneDrive\Desktop\Chumenko_WpfApp\obj\Debug\WpfApp.pdb
